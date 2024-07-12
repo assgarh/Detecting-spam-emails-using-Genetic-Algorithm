@@ -11,7 +11,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import LabelEncoder
 from deap import creator, base, tools, algorithms
-import sys
 df1 = pd.read_csv("spamham.csv")
 df = df1.where((pd.notnull(df1)), '')
 
