@@ -1,2 +1,2 @@
-# Detecting-spam-emails-using-Genetic-Algorithm
+# Email-Spam-Detection
 Detecting spam emails using Genetic Algorithm
